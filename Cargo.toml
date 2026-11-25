@@ -1,0 +1,9 @@
+[package]
+name = "rqsim"
+version = "0.1.0"
+edition = "2024"
+description = "Simulador de vector de estado en Rust para acelerar capas cuanvolucionales"
+readme = "README.md"
+
+[dependencies]
+num-complex = "0.4"
